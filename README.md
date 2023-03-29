@@ -13,9 +13,9 @@ This app was created for a learning purpose. I love cocktails and Ricardo... tha
 
 ## Screenshots
 
-| **Welcome to the Cocktail Swift App!**   |  |
-| :---:  | :---: |
-| !["Home"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/home.png) | <img src="https://github.com/amchampoux/cocktail-swift/blob/main/docs/cocktail_flow.gif" width="375"> |
+**Welcome to the Cocktail Swift App!**   
+
+<img src="https://github.com/amchampoux/cocktail-swift/blob/main/docs/cocktail_flow.gif" width="400"> 
 
 
 | **All cocktails**  | **The recipe**  |
