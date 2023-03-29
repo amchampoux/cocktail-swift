@@ -1,21 +1,20 @@
 # Cocktail Swift
 
-This app was created in a learning purpose. I love cocktails and Ricardo... it was the perfect mix! But then I decided to add more sections in order to explore other Swift usefull views. It became a cocktail of features. Built using XCode 14.0 (Swift 5.7). The layout was done using both autoLayout and Pinlayout. OpenWeather api was used to display current weather in various locations.
+This app was created for a learning purpose. I love cocktails and Ricardo... that was the perfect mix! But then I decided to add more sections to explore other Swift useful views. It became a cocktail of features. Built using XCode 14.0 (Swift 5.7). The layout was done using both autoLayout and Pinlayout. OpenWeather API was used to display current weather in various locations.
 
 ## Swift component explored
 
 * List and grid creation with UITableView, UICollectionView and UICollectionViewFlowLayout
 * Saving user data with UserDefaults
-* Notify user UIAlertController
+* Notify user with UIAlertController
 * Map management with PinAnnotationView and MKMarkerAnnotationView, Geocoder
 * Form creation with UITextField, UIPickerView, UISegmentedControl, UISwitch, UIStackView, UIStepper
 
 
 ## Screenshots
 
-| **Welcome to the Cocktail Swift App!**  |  |
-| :---:  | :---: |
-| !["Home"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/home.png) | !["Cocktail flow"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/cocktail_flow.gif)  |
+**Welcome to the Cocktail Swift App!** 
+!["Cocktail flow"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/cocktail_flow.gif)  
 
 | **All cocktails**  | **The recipe**  |
 | :---:  | :---: |
