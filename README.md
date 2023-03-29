@@ -13,27 +13,24 @@ This app was created in a learning purpose. I love cocktails and Ricardo... it w
 
 ## Screenshots
 
-**Main page**
+| **Welcome to the Cocktail Swift App!**  |  |
+| :---:  | :---: |
+| !["Home"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/home.png) | !["Cocktail flow"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/cocktail_flow.gif)  |
 
-!["Screenshot of the main page"](https://github.com/amchampoux/scheduler/blob/master/docs/home.png)
+| **All cocktails**  | **The recipe**  |
+| :---:  | :---: |
+| !["All"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/cocktails_all.png) | !["Recipe"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/cocktail.png)  |
 
-**Booking an inteview**
+**And then more nice stuff were added...**
 
-!["Screenshot of booking state"](https://github.com/amchampoux/scheduler/blob/master/docs/book_interview.png)
+| **Ingredients list**  | **Form**  |
+| :---:  | :---: |
+| !["List"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/list.png) | !["Form"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/form.png)  |
 
-**Deleting an inteview**
+| **A football league page**  | **A team's page**  |
+| :---:  | :---: |
+| !["Teams"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/teams_all.png) | !["Team"](https://github.com/amchampoux/cocktail-swift/blob/main/docs/team.png)  |
 
-!["Screenshot of booking state"](https://github.com/amchampoux/scheduler/blob/master/docs/delete_interview.gif)
-
-## Setup
-
-For full functionality, the client and the API server applications must run concurrently: 
-
-* Start by forking and cloning the scheduler-api server [here](https://github.com/lighthouse-labs/scheduler-api).
-* Follow the steps outlined in README to install and setup the database.
-* Fork and clone this repo.
-* Navigate to the root directory and install dependencies with `npm install`.
-* Run the following command from the root directory of the project `npm start`.
 
 ## Dependencies
 
